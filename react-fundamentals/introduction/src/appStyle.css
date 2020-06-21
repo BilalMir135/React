@@ -1,0 +1,6 @@
+/**Simple Stylesheet**/
+
+/**It can be accessed in the child components**/
+.error {
+  color: red;
+}

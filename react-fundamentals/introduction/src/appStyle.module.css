@@ -1,0 +1,6 @@
+/**Module Stylesheet**/
+
+/**It can't be accessed in the child components**/
+.success {
+  color: green;
+}
